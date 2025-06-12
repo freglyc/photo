@@ -1,3 +1,3 @@
-# Photography Site
+# photo.chrisfregly.com
 
-Coming soon.
+Personal photography site.
